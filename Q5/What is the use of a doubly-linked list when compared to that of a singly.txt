@@ -1,0 +1,9 @@
+Sol:
+
+SINGLY LINKED LIST (SLL)	vs DOUBLY LINKED LIST (DLL)
+
+In SLL, the traversal can be done using the next node link only.	In DLL, the traversal can be done using the previous node link or the next node link.	
+The SLL occupies less memory than DLL as it has only 2 fields.	The DLL occupies more memory than SLL as it has 3 fields.
+Less efficient access to elements.	More efficient access to elements.
+
+SLL has nodes with only a data field and next link field.	DLL has nodes with a data field, a previous link field and a next link field.

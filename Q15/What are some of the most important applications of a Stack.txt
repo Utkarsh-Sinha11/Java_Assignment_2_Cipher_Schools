@@ -1,0 +1,25 @@
+Sol:
+
+Expression Evaluation
+--------------------------
+Stack is used to evaluate prefix, postfix and infix expressions.
+
+Expression Conversion
+-------------------------
+An expression can be represented in prefix, postfix or infix notation. Stack can be used to convert one form of expression to another.
+
+Syntax Parsing
+-------------------------
+Many compilers use a stack for parsing the syntax of expressions, program blocks etc. before translating into low level code.
+
+Backtracking
+--------------------------
+Suppose we are finding a path for solving maze problem. We choose a path and after following it we realize that it is wrong. Now we need to go back to the beginning of the path to start with new path. This can be done with the help of stack.
+
+Parenthesis Checking
+--------------------------
+Stack is used to check the proper opening and closing of parenthesis.
+
+String Reversal
+--------------------------
+Stack is used to reverse a string. We push the characters of string one by one into stack and then pop character from stack.

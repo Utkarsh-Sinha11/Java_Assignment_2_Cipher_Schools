@@ -1,0 +1,9 @@
+Sol:
+
+1st Condition
+-----------------
+If a node is a left child, then its key and the keys of the nodes in its right subtree are less than its parent’s key.
+
+2nd Condition
+------------------
+If a node is a right child, then its key and the keys of the nodes in its left subtree are greater than its parent’s key.

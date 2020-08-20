@@ -1,0 +1,9 @@
+Sol:
+
+STACKS vs ARRAY
+
+Stacks are based on the LIFO principle, i.e., the element inserted at the last, is the first element to come out of the list.	In the array the elements belong to indexes, i.e., if you want to get into the fourth element you have to write the variable name with its index or location within the square bracket eg arr[4]
+Insertion and deletion in stacks takes place only from one end of the list called the top.	Insertion and deletion in array can be done at any index in the array.
+Stack has a dynamic size.	Array has a fixed size.
+Stack can contain elements of different data type.	Array contains elements of same data type.
+We can do only linear search	We can do both linear and Binary search

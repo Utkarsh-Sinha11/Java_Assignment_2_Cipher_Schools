@@ -1,0 +1,23 @@
+Sol:
+
+
+1 In computer science graph theory is used for the study of algorithms like:
+Dijkstra's Algorithm
+Prims's Algorithm
+Kruskal's Algorithm
+
+2.Graphs are used to define the flow of computation.
+
+3.Graphs are used to represent networks of communication.
+
+4.Graphs are used to represent data organization.
+
+5.Graph transformation systems work on rule-based in-memory manipulation of graphs. Graph databases ensure transaction-safe, persistent storing and querying of graph structured data.
+
+6.Graph theory is used to find shortest path in road or a network.
+
+7.In Google Maps, various locations are represented as vertices or nodes and the roads are represented as edges and graph theory is used to find the shortest path between two nodes.
+
+
+
+

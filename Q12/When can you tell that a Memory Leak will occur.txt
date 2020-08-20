@@ -1,0 +1,13 @@
+Sol:
+
+Memory leak occurs when programmers create a memory in heap and forget to delete it.
+Memory leaks are particularly serious issues for programs like daemons and servers which by definition never terminate.
+
+To avoid memory Leak free the memory as soon as its work is complete:\
+example:
+
+int *ptr = (int *) malloc(sizeof(int)); 
+  
+   /* Do some work */
+  
+free(ptr);

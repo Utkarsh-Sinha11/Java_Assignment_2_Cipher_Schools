@@ -1,0 +1,5 @@
+Sol:
+
+ Stack has the LIFO (Last In First Out) property; it remembers it's ‘caller’. Therefore, it knows to whom it should return when the function has to return. On the other hand, recursion makes use of the system stack for storing the return addresses of the function calls.
+
+ Every recursive function has its equivalent iterative (non-recursive) function. Even when such equivalent iterative procedures are written explicit, stack is to be used.

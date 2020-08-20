@@ -1,0 +1,14 @@
+Sol:
+
+Yes, it is possible , yet it would not be that much efficent algorithm for Linked List as finding middle element in a Linked List doesn't have O(1) time complexity.
+
+Steps:
+
+1. start node(set to Head of list), and the last node(set to NULL initially)
+
+2. Middle is calculated using two pointers approach.
+
+3. If middle’s data matches the required value of search, return it.
+Else if middle’s data < value, move to upper half(setting start to middle's next). Else go to lower half(setting last to middle).
+
+4.The condition to come out is, either element found or entire list is traversed. When entire list is traversed, last points to start i.e. last -> next == start.

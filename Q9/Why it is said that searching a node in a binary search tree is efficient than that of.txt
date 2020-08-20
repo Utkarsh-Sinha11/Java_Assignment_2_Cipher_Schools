@@ -1,0 +1,12 @@
+Sol:
+
+BINARY TREE	
+BINARY TREE is a non linear data structure where each node can have almost two child nodes
+BINARY TREE is unordered hence slower in process of insertion, deletion and searching.
+IN BINARY TREE there is no ordering in terms of how the nodes are arranged	
+
+
+BINARY SEARCH TREE
+BINARY SEARCH TREE is a node based binary tree which further has right and left subtree that too are binary search tree.
+Insertion, deletion, searching of an element is faster in BINARY SEARCH TREE than BINARY TREE due to the ordered characteristics
+IN BINARY SEARCH TREE the left subtree has elements less than the nodes element and the right subtree has elements greater than the nodes element.
